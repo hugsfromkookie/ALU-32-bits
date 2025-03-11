@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Jan  8 19:15:25 2025
+# Process ID: 87792
+# Current directory: D:/SSC/Proiect/ProiectALU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent57972 D:\SSC\Proiect\ProiectALU\ProiectALU.xpr
+# Log file: D:/SSC/Proiect/ProiectALU/vivado.log
+# Journal file: D:/SSC/Proiect/ProiectALU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SSC/Proiect/ProiectALU/ProiectALU.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:05 . Memory (MB): peak = 671.082 ; gain = 75.516
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jan  8 19:22:28 2025...

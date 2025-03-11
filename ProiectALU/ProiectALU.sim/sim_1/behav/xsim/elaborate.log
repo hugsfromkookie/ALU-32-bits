@@ -1,0 +1,25 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto c56961483f5d43219bfa006501eaba5c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_alu_behav xil_defaultlib.tb_alu -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.RotationUnit [rotationunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.LogicalUnit [logicalunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.full_adder_1bit [full_adder_1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.RCA_8bits [rca_8bits_default]
+Compiling architecture behavioral of entity xil_defaultlib.propagation_block [propagation_block_default]
+Compiling architecture behavioral of entity xil_defaultlib.cska32 [cska32_default]
+Compiling architecture behavioral of entity xil_defaultlib.multiplier_entity [multiplier_entity_default]
+Compiling architecture behavioral of entity xil_defaultlib.division_entity [division_entity_default]
+Compiling architecture behavioral of entity xil_defaultlib.ArithmeticUnit [arithmeticunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.alu [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_alu
+Built simulation snapshot tb_alu_behav
